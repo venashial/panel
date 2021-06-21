@@ -1,3 +1,6 @@
+## Archived
+This project has been archived in favor of using Docker images with [Portainer](https://github.com/portainer/portainer).
+
 # Othrys Panel
 **Manage** & **update** NodeJS instances and **control** terminal sessions, such as a Minecraft server, remotely through a web interface
 
